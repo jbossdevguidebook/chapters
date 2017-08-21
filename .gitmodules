@@ -1,0 +1,3 @@
+[submodule "ch8/ch8"]
+	path = ch8/ch8
+	url = git@github.com:jbossdevguidebook/ch8-brms-labs.git
