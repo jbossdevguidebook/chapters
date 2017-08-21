@@ -1,3 +1,6 @@
 [submodule "ch9/ch9-bpms-labs"]
 	path = ch9/ch9-bpms-labs
 	url = git@github.com:jbossdevguidebook/ch9-bpms-labs.git
+[submodule "ch8/ch8-brms-labs"]
+	path = ch8/ch8-brms-labs
+	url = git@github.com:jbossdevguidebook/ch8-brms-labs.git
