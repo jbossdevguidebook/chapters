@@ -12,5 +12,10 @@ each chapter resources are organised in an independent folder chxx
 9. [chapter 9](https://github.com/jbossdevguidebook/chapters/tree/master/ch9)   Developping Workflows with BPMS 
 
 
+Installation
+
+1. Each chapter is independent, except chapter 3 which requires beosbank-core dependency from chapter 2
+2. Chapter 8 and chapter 9 are git submodules.
+3. Clone the whole project using the following git command  [git clone --recursive git@github.com:jbossdevguidebook/chapters.git](git clone --recursive git@github.com:jbossdevguidebook/chapters.git)
 
 
