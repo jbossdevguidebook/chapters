@@ -32,4 +32,11 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	
+	<repositories>
+	<repository>
+      <id>RedHat GA</id>
+      <url>https://maven.repository.redhat.com/ga/</url>
+    </repository>
+	</repositories>
 </project>
